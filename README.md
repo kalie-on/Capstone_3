@@ -1,4 +1,5 @@
-### Capstone_3 – EmporiUm Sales Analysis with Power BI
+## Capstone_3 – EmporiUm Sales Analysis with Power BI
+## By Ndifon Caleb Ndakina
 ## West Region
 ## Overview
 
@@ -23,3 +24,7 @@ My report will focus on sales trends, category performance, state-level sales di
 - Git $ GitHub
 - Power BI Service
 - Microsoft PowerPoint (presentation)
+
+
+### minute video presentation
+[Ndakina-10-min-video](https://yearuptemp-my.sharepoint.com/:v:/g/personal/ncalebndakina_my_yearupunited_org/IQBK9RK8dONbRbIh8PaWP3zLAZhkZW61Zov1BCApunP6cnc?e=TnFoi3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
