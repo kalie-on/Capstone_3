@@ -1,0 +1,865 @@
+Sales_Month,State,Category,Total_Transactions,Average_Transaction_Size,Total_Revenue
+2022-01,Florida,"Technology & Accessories",75,435.449200,32658.69
+2022-01,Florida,Textbooks,61,168.644426,10287.31
+2022-01,Florida,"Art Supplies",63,31.660000,1994.58
+2022-01,Florida,"Apparel and Merchandise",66,30.010455,1980.69
+2022-01,Florida,"Stationery and Supplies",69,9.704058,669.58
+2022-01,Florida,"Books (General)",20,27.655000,553.10
+2022-01,"South Carolina","Technology & Accessories",13,577.186923,7503.43
+2022-01,"South Carolina",Textbooks,9,150.296667,1352.67
+2022-01,"South Carolina","Art Supplies",8,46.228750,369.83
+2022-01,"South Carolina","Apparel and Merchandise",12,21.433333,257.20
+2022-01,"South Carolina","Books (General)",4,24.040000,96.16
+2022-01,"South Carolina","Stationery and Supplies",7,8.727143,61.09
+2022-01,Texas,"Technology & Accessories",69,369.818261,25517.46
+2022-01,Texas,Textbooks,56,189.839107,10630.99
+2022-01,Texas,"Apparel and Merchandise",55,32.792000,1803.56
+2022-01,Texas,"Art Supplies",44,31.695682,1394.61
+2022-01,Texas,"Books (General)",28,27.960357,782.89
+2022-01,Texas,"Stationery and Supplies",69,10.546232,727.69
+2022-02,Florida,"Technology & Accessories",78,420.103846,32768.10
+2022-02,Florida,Textbooks,46,169.154348,7781.10
+2022-02,Florida,"Apparel and Merchandise",61,33.124262,2020.58
+2022-02,Florida,"Art Supplies",61,30.586393,1865.77
+2022-02,Florida,"Books (General)",36,27.370000,985.32
+2022-02,Florida,"Stationery and Supplies",72,11.617778,836.48
+2022-02,"South Carolina","Technology & Accessories",14,549.859286,7698.03
+2022-02,"South Carolina",Textbooks,5,193.666000,968.33
+2022-02,"South Carolina","Apparel and Merchandise",13,48.038462,624.50
+2022-02,"South Carolina","Books (General)",6,31.120000,186.72
+2022-02,"South Carolina","Art Supplies",8,22.957500,183.66
+2022-02,"South Carolina","Stationery and Supplies",11,9.340000,102.74
+2022-02,Texas,"Technology & Accessories",80,476.089000,38087.12
+2022-02,Texas,Textbooks,56,179.171786,10033.62
+2022-02,Texas,"Apparel and Merchandise",66,32.163485,2122.79
+2022-02,Texas,"Art Supplies",49,25.011020,1225.54
+2022-02,Texas,"Books (General)",23,30.761304,707.51
+2022-02,Texas,"Stationery and Supplies",50,11.052800,552.64
+2022-03,Florida,"Technology & Accessories",77,478.656623,36856.56
+2022-03,Florida,Textbooks,68,177.760000,12087.68
+2022-03,Florida,"Art Supplies",60,30.407000,1824.42
+2022-03,Florida,"Apparel and Merchandise",53,31.456038,1667.17
+2022-03,Florida,"Stationery and Supplies",62,9.971452,618.23
+2022-03,Florida,"Books (General)",20,24.359500,487.19
+2022-03,"South Carolina","Technology & Accessories",15,400.887333,6013.31
+2022-03,"South Carolina",Textbooks,10,168.548000,1685.48
+2022-03,"South Carolina","Apparel and Merchandise",9,30.344444,273.10
+2022-03,"South Carolina","Art Supplies",11,23.424545,257.67
+2022-03,"South Carolina","Books (General)",1,74.280000,74.28
+2022-03,"South Carolina","Stationery and Supplies",7,8.970000,62.79
+2022-03,Texas,"Technology & Accessories",63,533.869524,33633.78
+2022-03,Texas,Textbooks,60,184.050667,11043.04
+2022-03,Texas,"Apparel and Merchandise",50,31.235600,1561.78
+2022-03,Texas,"Art Supplies",42,34.806190,1461.86
+2022-03,Texas,"Books (General)",29,28.877586,837.45
+2022-03,Texas,"Stationery and Supplies",63,10.746667,677.04
+2022-04,Florida,"Technology & Accessories",80,408.738250,32699.06
+2022-04,Florida,Textbooks,65,184.264462,11977.19
+2022-04,Florida,"Art Supplies",61,29.305738,1787.65
+2022-04,Florida,"Apparel and Merchandise",59,29.155085,1720.15
+2022-04,Florida,"Stationery and Supplies",71,9.829859,697.92
+2022-04,Florida,"Books (General)",21,29.680000,623.28
+2022-04,"South Carolina","Technology & Accessories",9,613.023333,5517.21
+2022-04,"South Carolina",Textbooks,13,203.106154,2640.38
+2022-04,"South Carolina","Apparel and Merchandise",9,34.291111,308.62
+2022-04,"South Carolina","Art Supplies",9,27.642222,248.78
+2022-04,"South Carolina","Stationery and Supplies",13,10.092308,131.20
+2022-04,"South Carolina","Books (General)",4,20.860000,83.44
+2022-04,Texas,"Technology & Accessories",82,490.103659,40188.50
+2022-04,Texas,Textbooks,58,183.510345,10643.60
+2022-04,Texas,"Art Supplies",51,33.566078,1711.87
+2022-04,Texas,"Apparel and Merchandise",35,32.735714,1145.75
+2022-04,Texas,"Books (General)",31,27.521290,853.16
+2022-04,Texas,"Stationery and Supplies",64,10.724531,686.37
+2022-05,Florida,"Technology & Accessories",81,457.036914,37019.99
+2022-05,Florida,Textbooks,85,185.305294,15750.95
+2022-05,Florida,"Apparel and Merchandise",63,32.503651,2047.73
+2022-05,Florida,"Art Supplies",67,29.019104,1944.28
+2022-05,Florida,"Books (General)",29,27.174138,788.05
+2022-05,Florida,"Stationery and Supplies",78,9.944103,775.64
+2022-05,"South Carolina","Technology & Accessories",6,506.015000,3036.09
+2022-05,"South Carolina",Textbooks,9,193.244444,1739.20
+2022-05,"South Carolina","Apparel and Merchandise",9,30.200000,271.80
+2022-05,"South Carolina","Art Supplies",4,31.565000,126.26
+2022-05,"South Carolina","Books (General)",6,19.908333,119.45
+2022-05,"South Carolina","Stationery and Supplies",14,7.373571,103.23
+2022-05,Texas,"Technology & Accessories",79,385.087215,30421.89
+2022-05,Texas,Textbooks,76,190.974342,14514.05
+2022-05,Texas,"Apparel and Merchandise",55,33.479636,1841.38
+2022-05,Texas,"Art Supplies",47,33.459362,1572.59
+2022-05,Texas,"Books (General)",26,31.585385,821.22
+2022-05,Texas,"Stationery and Supplies",55,9.560909,525.85
+2022-06,Florida,"Technology & Accessories",77,388.177792,29889.69
+2022-06,Florida,Textbooks,73,181.930411,13280.92
+2022-06,Florida,"Art Supplies",76,28.497632,2165.82
+2022-06,Florida,"Apparel and Merchandise",63,34.309048,2161.47
+2022-06,Florida,"Books (General)",25,23.934800,598.37
+2022-06,Florida,"Stationery and Supplies",60,9.782833,586.97
+2022-06,"South Carolina","Technology & Accessories",11,487.105455,5358.16
+2022-06,"South Carolina",Textbooks,6,180.808333,1084.85
+2022-06,"South Carolina","Apparel and Merchandise",14,33.979286,475.71
+2022-06,"South Carolina","Art Supplies",7,19.871429,139.10
+2022-06,"South Carolina","Stationery and Supplies",8,11.788750,94.31
+2022-06,"South Carolina","Books (General)",2,22.050000,44.10
+2022-06,Texas,"Technology & Accessories",57,548.595088,31269.92
+2022-06,Texas,Textbooks,47,185.982553,8741.18
+2022-06,Texas,"Apparel and Merchandise",62,33.568387,2081.24
+2022-06,Texas,"Art Supplies",55,31.306182,1721.84
+2022-06,Texas,"Stationery and Supplies",76,9.827632,746.90
+2022-06,Texas,"Books (General)",26,24.891538,647.18
+2022-07,Florida,"Technology & Accessories",84,471.226071,39582.99
+2022-07,Florida,Textbooks,73,183.663836,13407.46
+2022-07,Florida,"Apparel and Merchandise",52,30.252500,1573.13
+2022-07,Florida,"Art Supplies",52,27.906538,1451.14
+2022-07,Florida,"Books (General)",33,23.261515,767.63
+2022-07,Florida,"Stationery and Supplies",73,10.457808,763.42
+2022-07,"South Carolina","Technology & Accessories",17,565.583529,9614.92
+2022-07,"South Carolina",Textbooks,15,176.492667,2647.39
+2022-07,"South Carolina","Apparel and Merchandise",11,33.311818,366.43
+2022-07,"South Carolina","Art Supplies",9,21.271111,191.44
+2022-07,"South Carolina","Books (General)",6,25.006667,150.04
+2022-07,"South Carolina","Stationery and Supplies",10,11.356000,113.56
+2022-07,Texas,"Technology & Accessories",66,460.078939,30365.21
+2022-07,Texas,Textbooks,73,182.107397,13293.84
+2022-07,Texas,"Art Supplies",49,34.168980,1674.28
+2022-07,Texas,"Apparel and Merchandise",48,31.456042,1509.89
+2022-07,Texas,"Stationery and Supplies",77,10.325195,795.04
+2022-07,Texas,"Books (General)",26,25.784615,670.40
+2022-08,Florida,"Technology & Accessories",65,466.497846,30322.36
+2022-08,Florida,Textbooks,71,188.966197,13416.60
+2022-08,Florida,"Apparel and Merchandise",60,32.794500,1967.67
+2022-08,Florida,"Art Supplies",48,29.458125,1413.99
+2022-08,Florida,"Books (General)",33,26.772424,883.49
+2022-08,Florida,"Stationery and Supplies",69,9.461884,652.87
+2022-08,"South Carolina","Technology & Accessories",11,457.650000,5034.15
+2022-08,"South Carolina",Textbooks,17,189.573529,3222.75
+2022-08,"South Carolina","Apparel and Merchandise",10,28.324000,283.24
+2022-08,"South Carolina","Art Supplies",10,17.617000,176.17
+2022-08,"South Carolina","Stationery and Supplies",9,12.082222,108.74
+2022-08,"South Carolina","Books (General)",4,22.845000,91.38
+2022-08,Texas,"Technology & Accessories",74,460.827838,34101.26
+2022-08,Texas,Textbooks,60,186.636833,11198.21
+2022-08,Texas,"Apparel and Merchandise",57,29.886316,1703.52
+2022-08,Texas,"Art Supplies",39,32.516667,1268.15
+2022-08,Texas,"Stationery and Supplies",69,10.905652,752.49
+2022-08,Texas,"Books (General)",23,26.856522,617.70
+2022-09,Florida,"Technology & Accessories",65,350.954000,22812.01
+2022-09,Florida,Textbooks,81,188.438519,15263.52
+2022-09,Florida,"Apparel and Merchandise",63,30.616984,1928.87
+2022-09,Florida,"Art Supplies",55,26.941091,1481.76
+2022-09,Florida,"Books (General)",28,26.572143,744.02
+2022-09,Florida,"Stationery and Supplies",56,10.873571,608.92
+2022-09,"South Carolina","Technology & Accessories",13,367.235385,4774.06
+2022-09,"South Carolina",Textbooks,13,199.322308,2591.19
+2022-09,"South Carolina","Apparel and Merchandise",9,36.696667,330.27
+2022-09,"South Carolina","Art Supplies",7,27.135714,189.95
+2022-09,"South Carolina","Books (General)",4,37.252500,149.01
+2022-09,"South Carolina","Stationery and Supplies",16,7.581875,121.31
+2022-09,Texas,"Technology & Accessories",65,485.403538,31551.23
+2022-09,Texas,Textbooks,60,184.997333,11099.84
+2022-09,Texas,"Apparel and Merchandise",59,34.588305,2040.71
+2022-09,Texas,"Art Supplies",52,33.091923,1720.78
+2022-09,Texas,"Books (General)",28,31.760000,889.28
+2022-09,Texas,"Stationery and Supplies",70,9.645714,675.20
+2022-10,Florida,"Technology & Accessories",72,432.541944,31143.02
+2022-10,Florida,Textbooks,72,190.625833,13725.06
+2022-10,Florida,"Art Supplies",58,29.025000,1683.45
+2022-10,Florida,"Apparel and Merchandise",50,31.027200,1551.36
+2022-10,Florida,"Books (General)",29,27.247586,790.18
+2022-10,Florida,"Stationery and Supplies",67,9.184328,615.35
+2022-10,"South Carolina","Technology & Accessories",17,487.245882,8283.18
+2022-10,"South Carolina",Textbooks,6,186.221667,1117.33
+2022-10,"South Carolina","Apparel and Merchandise",12,33.228333,398.74
+2022-10,"South Carolina","Art Supplies",10,36.628000,366.28
+2022-10,"South Carolina","Stationery and Supplies",14,8.220000,115.08
+2022-10,"South Carolina","Books (General)",2,24.830000,49.66
+2022-10,Texas,"Technology & Accessories",80,422.910875,33832.87
+2022-10,Texas,Textbooks,69,172.409420,11896.25
+2022-10,Texas,"Apparel and Merchandise",56,30.823393,1726.11
+2022-10,Texas,"Art Supplies",56,29.619464,1658.69
+2022-10,Texas,"Stationery and Supplies",75,9.571333,717.85
+2022-10,Texas,"Books (General)",21,33.872857,711.33
+2022-11,Florida,"Technology & Accessories",64,427.309219,27347.79
+2022-11,Florida,Textbooks,68,190.858235,12978.36
+2022-11,Florida,"Apparel and Merchandise",53,27.844151,1475.74
+2022-11,Florida,"Art Supplies",50,27.888200,1394.41
+2022-11,Florida,"Stationery and Supplies",69,10.131449,699.07
+2022-11,Florida,"Books (General)",26,24.018846,624.49
+2022-11,"South Carolina","Technology & Accessories",8,608.223750,4865.79
+2022-11,"South Carolina",Textbooks,16,166.180000,2658.88
+2022-11,"South Carolina","Art Supplies",9,39.938889,359.45
+2022-11,"South Carolina","Apparel and Merchandise",10,32.130000,321.30
+2022-11,"South Carolina","Books (General)",4,23.055000,92.22
+2022-11,"South Carolina","Stationery and Supplies",7,8.235714,57.65
+2022-11,Texas,"Technology & Accessories",69,383.613333,26469.32
+2022-11,Texas,Textbooks,57,182.634211,10410.15
+2022-11,Texas,"Apparel and Merchandise",54,30.550370,1649.72
+2022-11,Texas,"Art Supplies",41,30.232683,1239.54
+2022-11,Texas,"Books (General)",30,28.027333,840.82
+2022-11,Texas,"Stationery and Supplies",71,11.168028,792.93
+2022-12,Florida,"Technology & Accessories",77,433.839351,33405.63
+2022-12,Florida,Textbooks,66,179.496364,11846.76
+2022-12,Florida,"Apparel and Merchandise",72,30.965000,2229.48
+2022-12,Florida,"Art Supplies",68,27.675441,1881.93
+2022-12,Florida,"Books (General)",23,37.113913,853.62
+2022-12,Florida,"Stationery and Supplies",65,10.279385,668.16
+2022-12,"South Carolina","Technology & Accessories",7,829.821429,5808.75
+2022-12,"South Carolina",Textbooks,8,206.633750,1653.07
+2022-12,"South Carolina","Art Supplies",14,32.782857,458.96
+2022-12,"South Carolina","Apparel and Merchandise",7,25.775714,180.43
+2022-12,"South Carolina","Books (General)",4,35.630000,142.52
+2022-12,"South Carolina","Stationery and Supplies",10,11.714000,117.14
+2022-12,Texas,"Technology & Accessories",64,524.697969,33580.67
+2022-12,Texas,Textbooks,60,182.727833,10963.67
+2022-12,Texas,"Apparel and Merchandise",53,31.060000,1646.18
+2022-12,Texas,"Art Supplies",50,31.362200,1568.11
+2022-12,Texas,"Books (General)",27,26.511481,715.81
+2022-12,Texas,"Stationery and Supplies",61,9.531148,581.40
+2023-01,Florida,"Technology & Accessories",110,447.188818,49190.77
+2023-01,Florida,Textbooks,71,172.512535,12248.39
+2023-01,Florida,"Apparel and Merchandise",103,34.370777,3540.19
+2023-01,Florida,"Art Supplies",96,34.249375,3287.94
+2023-01,Florida,"Books (General)",41,29.594878,1213.39
+2023-01,Florida,"Stationery and Supplies",110,10.082091,1109.03
+2023-01,"South Carolina","Technology & Accessories",20,512.336000,10246.72
+2023-01,"South Carolina",Textbooks,11,147.369091,1621.06
+2023-01,"South Carolina","Apparel and Merchandise",20,34.950500,699.01
+2023-01,"South Carolina","Art Supplies",17,31.071765,528.22
+2023-01,"South Carolina","Books (General)",10,26.151000,261.51
+2023-01,"South Carolina","Stationery and Supplies",19,10.647368,202.30
+2023-01,Texas,"Technology & Accessories",122,468.641230,57174.23
+2023-01,Texas,Textbooks,51,151.745686,7739.03
+2023-01,Texas,"Apparel and Merchandise",94,34.116596,3206.96
+2023-01,Texas,"Art Supplies",74,27.785135,2056.10
+2023-01,Texas,"Books (General)",34,36.060588,1226.06
+2023-01,Texas,"Stationery and Supplies",87,10.301724,896.25
+2023-02,Florida,"Technology & Accessories",113,470.021239,53112.40
+2023-02,Florida,Textbooks,74,173.922973,12870.30
+2023-02,Florida,"Apparel and Merchandise",108,34.614074,3738.32
+2023-02,Florida,"Art Supplies",82,31.107073,2550.78
+2023-02,Florida,"Books (General)",35,33.947429,1188.16
+2023-02,Florida,"Stationery and Supplies",109,9.978532,1087.66
+2023-02,"South Carolina","Technology & Accessories",21,567.739048,11922.52
+2023-02,"South Carolina",Textbooks,4,167.035000,668.14
+2023-02,"South Carolina","Apparel and Merchandise",19,31.750000,603.25
+2023-02,"South Carolina","Art Supplies",16,34.655625,554.49
+2023-02,"South Carolina","Stationery and Supplies",15,11.014667,165.22
+2023-02,"South Carolina","Books (General)",5,30.830000,154.15
+2023-02,Texas,"Technology & Accessories",77,380.572208,29304.06
+2023-02,Texas,Textbooks,57,181.079123,10321.51
+2023-02,Texas,"Art Supplies",78,28.760897,2243.35
+2023-02,Texas,"Apparel and Merchandise",67,31.493881,2110.09
+2023-02,Texas,"Stationery and Supplies",89,9.859326,877.48
+2023-02,Texas,"Books (General)",20,27.144000,542.88
+2023-03,Florida,"Technology & Accessories",120,442.573667,53108.84
+2023-03,Florida,Textbooks,63,161.726349,10188.76
+2023-03,Florida,"Apparel and Merchandise",99,35.966566,3560.69
+2023-03,Florida,"Art Supplies",75,31.812133,2385.91
+2023-03,Florida,"Books (General)",45,26.637778,1198.70
+2023-03,Florida,"Stationery and Supplies",103,10.173786,1047.90
+2023-03,"South Carolina","Technology & Accessories",20,544.678000,10893.56
+2023-03,"South Carolina",Textbooks,9,163.472222,1471.25
+2023-03,"South Carolina","Art Supplies",15,33.986000,509.79
+2023-03,"South Carolina","Apparel and Merchandise",8,40.503750,324.03
+2023-03,"South Carolina","Books (General)",8,34.667500,277.34
+2023-03,"South Carolina","Stationery and Supplies",13,12.256923,159.34
+2023-03,Texas,"Technology & Accessories",112,457.593929,51250.52
+2023-03,Texas,Textbooks,60,164.791333,9887.48
+2023-03,Texas,"Apparel and Merchandise",80,33.781000,2702.48
+2023-03,Texas,"Art Supplies",52,32.593846,1694.88
+2023-03,Texas,"Books (General)",35,29.645143,1037.58
+2023-03,Texas,"Stationery and Supplies",90,9.953556,895.82
+2023-04,Florida,"Technology & Accessories",121,396.996942,48036.63
+2023-04,Florida,Textbooks,86,168.600698,14499.66
+2023-04,Florida,"Apparel and Merchandise",120,34.265083,4111.81
+2023-04,Florida,"Art Supplies",70,33.374286,2336.20
+2023-04,Florida,"Books (General)",55,29.227455,1607.51
+2023-04,Florida,"Stationery and Supplies",115,9.388000,1079.62
+2023-04,"South Carolina","Technology & Accessories",18,371.291667,6683.25
+2023-04,"South Carolina",Textbooks,10,175.015000,1750.15
+2023-04,"South Carolina","Apparel and Merchandise",19,25.683684,487.99
+2023-04,"South Carolina","Art Supplies",14,24.319286,340.47
+2023-04,"South Carolina","Books (General)",7,25.187143,176.31
+2023-04,"South Carolina","Stationery and Supplies",19,7.862105,149.38
+2023-04,Texas,"Technology & Accessories",128,464.522500,59458.88
+2023-04,Texas,Textbooks,63,172.091905,10841.79
+2023-04,Texas,"Apparel and Merchandise",72,32.218333,2319.72
+2023-04,Texas,"Art Supplies",71,29.900986,2122.97
+2023-04,Texas,"Stationery and Supplies",127,9.794173,1243.86
+2023-04,Texas,"Books (General)",32,22.660000,725.12
+2023-05,Florida,"Technology & Accessories",120,470.174167,56420.90
+2023-05,Florida,Textbooks,72,168.733056,12148.78
+2023-05,Florida,"Apparel and Merchandise",104,34.508173,3588.85
+2023-05,Florida,"Art Supplies",71,35.035211,2487.50
+2023-05,Florida,"Stationery and Supplies",121,9.754298,1180.27
+2023-05,Florida,"Books (General)",40,27.908000,1116.32
+2023-05,"South Carolina","Technology & Accessories",19,376.269474,7149.12
+2023-05,"South Carolina",Textbooks,15,151.893333,2278.40
+2023-05,"South Carolina","Apparel and Merchandise",18,39.872222,717.70
+2023-05,"South Carolina","Art Supplies",10,26.446000,264.46
+2023-05,"South Carolina","Books (General)",6,24.640000,147.84
+2023-05,"South Carolina","Stationery and Supplies",14,8.370714,117.19
+2023-05,Texas,"Technology & Accessories",107,517.387664,55360.48
+2023-05,Texas,Textbooks,70,177.895857,12452.71
+2023-05,Texas,"Apparel and Merchandise",72,31.782917,2288.37
+2023-05,Texas,"Art Supplies",65,31.317077,2035.61
+2023-05,Texas,"Books (General)",36,30.120278,1084.33
+2023-05,Texas,"Stationery and Supplies",93,9.010538,837.98
+2023-06,Florida,"Technology & Accessories",105,484.473333,50869.70
+2023-06,Florida,Textbooks,98,162.458980,15920.98
+2023-06,Florida,"Art Supplies",93,36.498495,3394.36
+2023-06,Florida,"Apparel and Merchandise",104,30.572692,3179.56
+2023-06,Florida,"Books (General)",47,29.500851,1386.54
+2023-06,Florida,"Stationery and Supplies",125,9.660880,1207.61
+2023-06,"South Carolina","Technology & Accessories",17,323.037647,5491.64
+2023-06,"South Carolina",Textbooks,16,154.766250,2476.26
+2023-06,"South Carolina","Apparel and Merchandise",15,39.976000,599.64
+2023-06,"South Carolina","Art Supplies",14,22.820000,319.48
+2023-06,"South Carolina","Books (General)",7,35.937143,251.56
+2023-06,"South Carolina","Stationery and Supplies",17,11.394118,193.70
+2023-06,Texas,"Technology & Accessories",107,460.712336,49296.22
+2023-06,Texas,Textbooks,66,186.994545,12341.64
+2023-06,Texas,"Art Supplies",79,30.700506,2425.34
+2023-06,Texas,"Apparel and Merchandise",56,36.775536,2059.43
+2023-06,Texas,"Books (General)",38,32.765526,1245.09
+2023-06,Texas,"Stationery and Supplies",97,10.023918,972.32
+2023-07,Florida,"Technology & Accessories",111,439.005315,48729.59
+2023-07,Florida,Textbooks,93,175.345269,16307.11
+2023-07,Florida,"Apparel and Merchandise",112,33.859464,3792.26
+2023-07,Florida,"Art Supplies",80,32.976375,2638.11
+2023-07,Florida,"Books (General)",55,32.602909,1793.16
+2023-07,Florida,"Stationery and Supplies",119,9.901765,1178.31
+2023-07,"South Carolina","Technology & Accessories",21,343.344762,7210.24
+2023-07,"South Carolina",Textbooks,10,185.326000,1853.26
+2023-07,"South Carolina","Art Supplies",20,26.265000,525.30
+2023-07,"South Carolina","Apparel and Merchandise",17,29.847059,507.40
+2023-07,"South Carolina","Books (General)",10,25.996000,259.96
+2023-07,"South Carolina","Stationery and Supplies",9,9.490000,85.41
+2023-07,Texas,"Technology & Accessories",98,456.565306,44743.40
+2023-07,Texas,Textbooks,76,165.988947,12615.16
+2023-07,Texas,"Apparel and Merchandise",88,30.687841,2700.53
+2023-07,Texas,"Art Supplies",60,31.553500,1893.21
+2023-07,Texas,"Books (General)",37,30.431081,1125.95
+2023-07,Texas,"Stationery and Supplies",92,9.378478,862.82
+2023-08,Florida,"Technology & Accessories",114,389.285789,44378.58
+2023-08,Florida,Textbooks,109,176.668899,19256.91
+2023-08,Florida,"Apparel and Merchandise",118,30.590847,3609.72
+2023-08,Florida,"Art Supplies",72,30.958472,2229.01
+2023-08,Florida,"Stationery and Supplies",110,10.359636,1139.56
+2023-08,Florida,"Books (General)",39,25.966410,1012.69
+2023-08,"South Carolina","Technology & Accessories",25,337.829600,8445.74
+2023-08,"South Carolina",Textbooks,13,205.050769,2665.66
+2023-08,"South Carolina","Apparel and Merchandise",23,31.933043,734.46
+2023-08,"South Carolina","Art Supplies",13,35.206923,457.69
+2023-08,"South Carolina","Books (General)",8,21.965000,175.72
+2023-08,"South Carolina","Stationery and Supplies",13,10.577692,137.51
+2023-08,Texas,"Technology & Accessories",91,452.136923,41144.46
+2023-08,Texas,Textbooks,77,166.586494,12827.16
+2023-08,Texas,"Art Supplies",80,30.547750,2443.82
+2023-08,Texas,"Apparel and Merchandise",70,29.631857,2074.23
+2023-08,Texas,"Stationery and Supplies",102,11.479706,1170.93
+2023-08,Texas,"Books (General)",35,29.713429,1039.97
+2023-09,Florida,"Technology & Accessories",132,471.522955,62241.03
+2023-09,Florida,Textbooks,92,183.884239,16917.35
+2023-09,Florida,"Apparel and Merchandise",102,29.877941,3047.55
+2023-09,Florida,"Art Supplies",69,26.858406,1853.23
+2023-09,Florida,"Books (General)",49,24.243265,1187.92
+2023-09,Florida,"Stationery and Supplies",105,10.869619,1141.31
+2023-09,"South Carolina","Technology & Accessories",12,572.419167,6869.03
+2023-09,"South Carolina",Textbooks,15,161.596000,2423.94
+2023-09,"South Carolina","Apparel and Merchandise",12,42.127500,505.53
+2023-09,"South Carolina","Art Supplies",15,29.550000,443.25
+2023-09,"South Carolina","Stationery and Supplies",13,14.123846,183.61
+2023-09,"South Carolina","Books (General)",4,19.290000,77.16
+2023-09,Texas,"Technology & Accessories",104,492.388173,51208.37
+2023-09,Texas,Textbooks,75,167.851467,12588.86
+2023-09,Texas,"Apparel and Merchandise",70,34.036000,2382.52
+2023-09,Texas,"Art Supplies",58,31.191034,1809.08
+2023-09,Texas,"Stationery and Supplies",87,10.773563,937.30
+2023-09,Texas,"Books (General)",29,25.793103,748.00
+2023-10,Florida,"Technology & Accessories",105,512.380095,53799.91
+2023-10,Florida,Textbooks,85,173.772235,14770.64
+2023-10,Florida,"Apparel and Merchandise",100,33.619200,3361.92
+2023-10,Florida,"Art Supplies",83,29.011566,2407.96
+2023-10,Florida,"Books (General)",41,30.208293,1238.54
+2023-10,Florida,"Stationery and Supplies",106,9.354245,991.55
+2023-10,"South Carolina","Technology & Accessories",22,624.448636,13737.87
+2023-10,"South Carolina",Textbooks,20,187.756000,3755.12
+2023-10,"South Carolina","Apparel and Merchandise",17,30.539412,519.17
+2023-10,"South Carolina","Art Supplies",9,40.084444,360.76
+2023-10,"South Carolina","Stationery and Supplies",21,11.988571,251.76
+2023-10,"South Carolina","Books (General)",3,21.166667,63.50
+2023-10,Texas,"Technology & Accessories",91,473.000549,43043.05
+2023-10,Texas,Textbooks,86,171.509767,14749.84
+2023-10,Texas,"Apparel and Merchandise",94,30.842128,2899.16
+2023-10,Texas,"Art Supplies",69,31.378406,2165.11
+2023-10,Texas,"Books (General)",44,25.627955,1127.63
+2023-10,Texas,"Stationery and Supplies",74,10.003919,740.29
+2023-11,Florida,"Technology & Accessories",120,470.764833,56491.78
+2023-11,Florida,Textbooks,99,173.393636,17165.97
+2023-11,Florida,"Apparel and Merchandise",103,30.892621,3181.94
+2023-11,Florida,"Art Supplies",66,26.473636,1747.26
+2023-11,Florida,"Books (General)",46,30.588043,1407.05
+2023-11,Florida,"Stationery and Supplies",118,9.803559,1156.82
+2023-11,"South Carolina","Technology & Accessories",15,428.253333,6423.80
+2023-11,"South Carolina",Textbooks,13,175.213846,2277.78
+2023-11,"South Carolina","Apparel and Merchandise",18,42.886667,771.96
+2023-11,"South Carolina","Art Supplies",13,39.619231,515.05
+2023-11,"South Carolina","Books (General)",7,30.530000,213.71
+2023-11,"South Carolina","Stationery and Supplies",21,10.120476,212.53
+2023-11,Texas,"Technology & Accessories",103,426.682621,43948.31
+2023-11,Texas,Textbooks,89,171.334944,15248.81
+2023-11,Texas,"Apparel and Merchandise",78,30.326667,2365.48
+2023-11,Texas,"Art Supplies",59,30.405085,1793.90
+2023-11,Texas,"Books (General)",40,32.639500,1305.58
+2023-11,Texas,"Stationery and Supplies",89,10.011011,890.98
+2023-12,Florida,"Technology & Accessories",126,467.506508,58905.82
+2023-12,Florida,Textbooks,110,176.694818,19436.43
+2023-12,Florida,"Apparel and Merchandise",82,32.981463,2704.48
+2023-12,Florida,"Art Supplies",92,26.975109,2481.71
+2023-12,Florida,"Books (General)",47,25.538085,1200.29
+2023-12,Florida,"Stationery and Supplies",104,10.291058,1070.27
+2023-12,"South Carolina","Technology & Accessories",21,420.787619,8836.54
+2023-12,"South Carolina",Textbooks,12,213.099167,2557.19
+2023-12,"South Carolina","Art Supplies",22,23.948182,526.86
+2023-12,"South Carolina","Apparel and Merchandise",15,31.980667,479.71
+2023-12,"South Carolina","Books (General)",5,36.370000,181.85
+2023-12,"South Carolina","Stationery and Supplies",19,8.436316,160.29
+2023-12,Texas,"Technology & Accessories",115,481.448087,55366.53
+2023-12,Texas,Textbooks,91,183.240549,16674.89
+2023-12,Texas,"Apparel and Merchandise",83,32.684819,2712.84
+2023-12,Texas,"Art Supplies",79,31.994304,2527.55
+2023-12,Texas,"Stationery and Supplies",102,10.215686,1042.00
+2023-12,Texas,"Books (General)",25,26.818000,670.45
+2024-01,Florida,"Technology & Accessories",124,478.332903,59313.28
+2024-01,Florida,Textbooks,83,174.693012,14499.52
+2024-01,Florida,"Apparel and Merchandise",123,34.969593,4301.26
+2024-01,Florida,"Art Supplies",87,31.717471,2759.42
+2024-01,Florida,"Books (General)",40,33.811750,1352.47
+2024-01,Florida,"Stationery and Supplies",117,9.712650,1136.38
+2024-01,"South Carolina","Technology & Accessories",24,548.688750,13168.53
+2024-01,"South Carolina",Textbooks,4,167.035000,668.14
+2024-01,"South Carolina","Apparel and Merchandise",19,31.750000,603.25
+2024-01,"South Carolina","Art Supplies",17,34.048235,578.82
+2024-01,"South Carolina","Stationery and Supplies",18,10.831111,194.96
+2024-01,"South Carolina","Books (General)",6,29.738333,178.43
+2024-01,Texas,"Technology & Accessories",88,363.206932,31962.21
+2024-01,Texas,Textbooks,63,183.052857,11532.33
+2024-01,Texas,"Art Supplies",86,28.128256,2419.03
+2024-01,Texas,"Apparel and Merchandise",73,32.396164,2364.92
+2024-01,Texas,"Stationery and Supplies",96,9.653438,926.73
+2024-01,Texas,"Books (General)",23,26.910435,618.94
+2024-02,Florida,"Technology & Accessories",112,431.870893,48369.54
+2024-02,Florida,Textbooks,57,161.538947,9207.72
+2024-02,Florida,"Apparel and Merchandise",87,35.796437,3114.29
+2024-02,Florida,"Art Supplies",72,31.209583,2247.09
+2024-02,Florida,"Books (General)",41,25.725610,1054.75
+2024-02,Florida,"Stationery and Supplies",102,10.214510,1041.88
+2024-02,"South Carolina","Technology & Accessories",20,544.678000,10893.56
+2024-02,"South Carolina",Textbooks,9,163.472222,1471.25
+2024-02,"South Carolina","Art Supplies",14,34.675714,485.46
+2024-02,"South Carolina","Apparel and Merchandise",8,40.503750,324.03
+2024-02,"South Carolina","Books (General)",7,36.151429,253.06
+2024-02,"South Carolina","Stationery and Supplies",11,13.390909,147.30
+2024-02,Texas,"Technology & Accessories",103,480.272913,49468.11
+2024-02,Texas,Textbooks,56,161.872500,9064.86
+2024-02,Texas,"Apparel and Merchandise",77,33.680000,2593.36
+2024-02,Texas,"Art Supplies",46,33.996522,1563.84
+2024-02,Texas,"Books (General)",33,30.024848,990.82
+2024-02,Texas,"Stationery and Supplies",85,10.212471,868.06
+2024-03,Florida,"Technology & Accessories",124,395.477419,49039.20
+2024-03,Florida,Textbooks,91,168.801978,15360.98
+2024-03,Florida,"Apparel and Merchandise",122,34.472049,4205.59
+2024-03,Florida,"Art Supplies",74,34.202838,2531.01
+2024-03,Florida,"Books (General)",55,29.227455,1607.51
+2024-03,Florida,"Stationery and Supplies",118,9.378983,1106.72
+2024-03,"South Carolina","Technology & Accessories",18,371.291667,6683.25
+2024-03,"South Carolina",Textbooks,10,175.015000,1750.15
+2024-03,"South Carolina","Apparel and Merchandise",19,25.683684,487.99
+2024-03,"South Carolina","Art Supplies",14,24.319286,340.47
+2024-03,"South Carolina","Books (General)",8,25.653750,205.23
+2024-03,"South Carolina","Stationery and Supplies",21,8.563810,179.84
+2024-03,Texas,"Technology & Accessories",133,468.436917,62302.11
+2024-03,Texas,Textbooks,68,173.955735,11828.99
+2024-03,Texas,"Apparel and Merchandise",74,32.775946,2425.42
+2024-03,Texas,"Art Supplies",73,29.594932,2160.43
+2024-03,Texas,"Stationery and Supplies",128,9.788672,1252.95
+2024-03,Texas,"Books (General)",33,22.849697,754.04
+2024-04,Florida,"Technology & Accessories",117,473.660940,55418.33
+2024-04,Florida,Textbooks,67,168.469552,11287.46
+2024-04,Florida,"Apparel and Merchandise",102,34.265392,3495.07
+2024-04,Florida,"Art Supplies",67,34.219254,2292.69
+2024-04,Florida,"Stationery and Supplies",118,9.772627,1153.17
+2024-04,Florida,"Books (General)",40,27.908000,1116.32
+2024-04,"South Carolina","Technology & Accessories",19,376.269474,7149.12
+2024-04,"South Carolina",Textbooks,15,151.893333,2278.40
+2024-04,"South Carolina","Apparel and Merchandise",18,39.872222,717.70
+2024-04,"South Carolina","Art Supplies",10,26.446000,264.46
+2024-04,"South Carolina","Books (General)",5,23.784000,118.92
+2024-04,"South Carolina","Stationery and Supplies",12,7.227500,86.73
+2024-04,Texas,"Technology & Accessories",102,514.875000,52517.25
+2024-04,Texas,Textbooks,65,176.392462,11465.51
+2024-04,Texas,"Apparel and Merchandise",70,31.181000,2182.67
+2024-04,Texas,"Art Supplies",63,31.716667,1998.15
+2024-04,Texas,"Books (General)",35,30.154571,1055.41
+2024-04,Texas,"Stationery and Supplies",92,9.009674,828.89
+2024-05,Florida,"Technology & Accessories",108,482.597685,52120.55
+2024-05,Florida,Textbooks,104,161.429135,16788.63
+2024-05,Florida,"Art Supplies",94,36.662979,3446.32
+2024-05,Florida,"Apparel and Merchandise",107,31.280935,3347.06
+2024-05,Florida,"Books (General)",47,29.500851,1386.54
+2024-05,Florida,"Stationery and Supplies",129,9.586589,1236.67
+2024-05,"South Carolina","Technology & Accessories",18,311.463889,5606.35
+2024-05,"South Carolina",Textbooks,17,155.427059,2642.26
+2024-05,"South Carolina","Apparel and Merchandise",15,39.976000,599.64
+2024-05,"South Carolina","Art Supplies",15,23.226667,348.40
+2024-05,"South Carolina","Books (General)",7,35.937143,251.56
+2024-05,"South Carolina","Stationery and Supplies",17,11.394118,193.70
+2024-05,Texas,"Technology & Accessories",111,458.594414,50903.98
+2024-05,Texas,Textbooks,70,186.010429,13020.73
+2024-05,Texas,"Art Supplies",81,30.797284,2494.58
+2024-05,Texas,"Apparel and Merchandise",58,35.928966,2083.88
+2024-05,Texas,"Books (General)",38,32.765526,1245.09
+2024-05,Texas,"Stationery and Supplies",99,9.947677,984.82
+2024-06,Florida,"Technology & Accessories",108,439.617963,47478.74
+2024-06,Florida,Textbooks,87,177.465057,15439.46
+2024-06,Florida,"Apparel and Merchandise",109,33.254679,3624.76
+2024-06,Florida,"Art Supplies",79,32.736076,2586.15
+2024-06,Florida,"Books (General)",55,32.602909,1793.16
+2024-06,Florida,"Stationery and Supplies",115,9.993478,1149.25
+2024-06,"South Carolina","Technology & Accessories",20,354.776500,7095.53
+2024-06,"South Carolina",Textbooks,9,187.473333,1687.26
+2024-06,"South Carolina","Apparel and Merchandise",17,29.847059,507.40
+2024-06,"South Carolina","Art Supplies",19,26.125263,496.38
+2024-06,"South Carolina","Books (General)",10,25.996000,259.96
+2024-06,"South Carolina","Stationery and Supplies",9,9.490000,85.41
+2024-06,Texas,"Technology & Accessories",94,458.889787,43135.64
+2024-06,Texas,Textbooks,72,165.778750,11936.07
+2024-06,Texas,"Apparel and Merchandise",86,31.117209,2676.08
+2024-06,Texas,"Art Supplies",58,31.447759,1823.97
+2024-06,Texas,"Books (General)",37,30.431081,1125.95
+2024-06,Texas,"Stationery and Supplies",90,9.448000,850.32
+2024-07,Florida,"Technology & Accessories",114,389.285789,44378.58
+2024-07,Florida,Textbooks,109,176.668899,19256.91
+2024-07,Florida,"Apparel and Merchandise",118,30.590847,3609.72
+2024-07,Florida,"Art Supplies",72,30.958472,2229.01
+2024-07,Florida,"Stationery and Supplies",110,10.359636,1139.56
+2024-07,Florida,"Books (General)",39,25.966410,1012.69
+2024-07,"South Carolina","Technology & Accessories",25,337.829600,8445.74
+2024-07,"South Carolina",Textbooks,13,205.050769,2665.66
+2024-07,"South Carolina","Apparel and Merchandise",23,31.933043,734.46
+2024-07,"South Carolina","Art Supplies",13,35.206923,457.69
+2024-07,"South Carolina","Books (General)",8,21.965000,175.72
+2024-07,"South Carolina","Stationery and Supplies",13,10.577692,137.51
+2024-07,Texas,"Technology & Accessories",91,452.136923,41144.46
+2024-07,Texas,Textbooks,77,166.586494,12827.16
+2024-07,Texas,"Art Supplies",80,30.547750,2443.82
+2024-07,Texas,"Apparel and Merchandise",70,29.631857,2074.23
+2024-07,Texas,"Stationery and Supplies",102,11.479706,1170.93
+2024-07,Texas,"Books (General)",35,29.713429,1039.97
+2024-08,Florida,"Technology & Accessories",138,472.708696,65233.80
+2024-08,Florida,Textbooks,96,181.465625,17420.70
+2024-08,Florida,"Apparel and Merchandise",103,29.844175,3073.95
+2024-08,Florida,"Art Supplies",72,26.433750,1903.23
+2024-08,Florida,"Books (General)",50,24.336800,1216.84
+2024-08,Florida,"Stationery and Supplies",108,10.782963,1164.56
+2024-08,"South Carolina","Technology & Accessories",12,572.419167,6869.03
+2024-08,"South Carolina",Textbooks,15,161.596000,2423.94
+2024-08,"South Carolina","Apparel and Merchandise",12,42.127500,505.53
+2024-08,"South Carolina","Art Supplies",16,28.078125,449.25
+2024-08,"South Carolina","Stationery and Supplies",15,13.287333,199.31
+2024-08,"South Carolina","Books (General)",4,19.290000,77.16
+2024-08,Texas,"Technology & Accessories",107,487.184766,52128.77
+2024-08,Texas,Textbooks,79,168.644557,13322.92
+2024-08,Texas,"Apparel and Merchandise",72,34.027222,2449.96
+2024-08,Texas,"Art Supplies",59,30.943729,1825.68
+2024-08,Texas,"Stationery and Supplies",88,10.725227,943.82
+2024-08,Texas,"Books (General)",33,25.542424,842.90
+2024-09,Florida,"Technology & Accessories",99,513.203434,50807.14
+2024-09,Florida,Textbooks,81,176.139383,14267.29
+2024-09,Florida,"Apparel and Merchandise",99,33.692121,3335.52
+2024-09,Florida,"Art Supplies",80,29.474500,2357.96
+2024-09,Florida,"Books (General)",40,30.240500,1209.62
+2024-09,Florida,"Stationery and Supplies",103,9.400971,968.30
+2024-09,"South Carolina","Technology & Accessories",22,624.448636,13737.87
+2024-09,"South Carolina",Textbooks,20,187.756000,3755.12
+2024-09,"South Carolina","Apparel and Merchandise",17,30.539412,519.17
+2024-09,"South Carolina","Art Supplies",8,44.345000,354.76
+2024-09,"South Carolina","Stationery and Supplies",19,12.424211,236.06
+2024-09,"South Carolina","Books (General)",3,21.166667,63.50
+2024-09,Texas,"Technology & Accessories",88,478.666477,42122.65
+2024-09,Texas,Textbooks,82,170.924146,14015.78
+2024-09,Texas,"Apparel and Merchandise",92,30.779565,2831.72
+2024-09,Texas,"Art Supplies",68,31.595735,2148.51
+2024-09,Texas,"Books (General)",40,25.818250,1032.73
+2024-09,Texas,"Stationery and Supplies",73,10.051644,733.77
+2024-10,Florida,"Technology & Accessories",124,467.059355,57915.36
+2024-10,Florida,Textbooks,102,173.511961,17698.22
+2024-10,Florida,"Apparel and Merchandise",104,31.672500,3293.94
+2024-10,Florida,"Art Supplies",69,26.645942,1838.57
+2024-10,Florida,"Books (General)",48,30.284792,1453.67
+2024-10,Florida,"Stationery and Supplies",121,9.825785,1188.92
+2024-10,"South Carolina","Technology & Accessories",16,414.478125,6631.65
+2024-10,"South Carolina",Textbooks,13,175.213846,2277.78
+2024-10,"South Carolina","Apparel and Merchandise",18,42.886667,771.96
+2024-10,"South Carolina","Art Supplies",13,39.619231,515.05
+2024-10,"South Carolina","Books (General)",7,30.530000,213.71
+2024-10,"South Carolina","Stationery and Supplies",21,10.120476,212.53
+2024-10,Texas,"Technology & Accessories",106,450.698962,47774.09
+2024-10,Texas,Textbooks,93,171.494194,15948.96
+2024-10,Texas,"Apparel and Merchandise",81,30.686173,2485.58
+2024-10,Texas,"Art Supplies",60,30.960000,1857.60
+2024-10,Texas,"Books (General)",40,32.639500,1305.58
+2024-10,Texas,"Stationery and Supplies",97,10.001443,970.14
+2024-11,Florida,"Technology & Accessories",122,471.165902,57482.24
+2024-11,Florida,Textbooks,107,176.674579,18904.18
+2024-11,Florida,"Apparel and Merchandise",81,32.005926,2592.48
+2024-11,Florida,"Art Supplies",89,26.858427,2390.40
+2024-11,Florida,"Books (General)",45,25.637111,1153.67
+2024-11,Florida,"Stationery and Supplies",101,10.278911,1038.17
+2024-11,"South Carolina","Technology & Accessories",20,431.434500,8628.69
+2024-11,"South Carolina",Textbooks,12,213.099167,2557.19
+2024-11,"South Carolina","Art Supplies",22,23.948182,526.86
+2024-11,"South Carolina","Apparel and Merchandise",15,31.980667,479.71
+2024-11,"South Carolina","Books (General)",5,36.370000,181.85
+2024-11,"South Carolina","Stationery and Supplies",19,8.436316,160.29
+2024-11,Texas,"Technology & Accessories",112,460.185268,51540.75
+2024-11,Texas,Textbooks,87,183.617701,15974.74
+2024-11,Texas,"Apparel and Merchandise",80,32.409250,2592.74
+2024-11,Texas,"Art Supplies",78,31.587821,2463.85
+2024-11,Texas,"Stationery and Supplies",94,10.242979,962.84
+2024-11,Texas,"Books (General)",25,26.818000,670.45
+2024-12,Florida,"Technology & Accessories",110,447.188818,49190.77
+2024-12,Florida,Textbooks,71,172.512535,12248.39
+2024-12,Florida,"Apparel and Merchandise",103,34.370777,3540.19
+2024-12,Florida,"Art Supplies",96,34.249375,3287.94
+2024-12,Florida,"Books (General)",41,29.594878,1213.39
+2024-12,Florida,"Stationery and Supplies",110,10.082091,1109.03
+2024-12,"South Carolina","Technology & Accessories",20,512.336000,10246.72
+2024-12,"South Carolina",Textbooks,11,147.369091,1621.06
+2024-12,"South Carolina","Apparel and Merchandise",20,34.950500,699.01
+2024-12,"South Carolina","Art Supplies",17,31.071765,528.22
+2024-12,"South Carolina","Books (General)",10,26.151000,261.51
+2024-12,"South Carolina","Stationery and Supplies",19,10.647368,202.30
+2024-12,Texas,"Technology & Accessories",122,468.641230,57174.23
+2024-12,Texas,Textbooks,51,151.745686,7739.03
+2024-12,Texas,"Apparel and Merchandise",94,34.116596,3206.96
+2024-12,Texas,"Art Supplies",74,27.785135,2056.10
+2024-12,Texas,"Books (General)",34,36.060588,1226.06
+2024-12,Texas,"Stationery and Supplies",87,10.301724,896.25
+2025-01,Florida,"Technology & Accessories",176,532.430511,93707.77
+2025-01,Florida,Textbooks,45,174.332667,7844.97
+2025-01,Florida,"Apparel and Merchandise",192,32.280260,6197.81
+2025-01,Florida,"Art Supplies",165,34.685212,5723.06
+2025-01,Florida,"Books (General)",96,33.958542,3260.02
+2025-01,Florida,"Stationery and Supplies",199,9.654523,1921.25
+2025-01,"South Carolina","Technology & Accessories",34,501.876176,17063.79
+2025-01,"South Carolina","Art Supplies",30,38.381333,1151.44
+2025-01,"South Carolina","Apparel and Merchandise",30,28.664333,859.93
+2025-01,"South Carolina",Textbooks,4,190.590000,762.36
+2025-01,"South Carolina","Stationery and Supplies",34,10.107647,343.66
+2025-01,"South Carolina","Books (General)",10,24.622000,246.22
+2025-01,Texas,"Technology & Accessories",147,530.659864,78007.00
+2025-01,Texas,Textbooks,50,188.974400,9448.72
+2025-01,Texas,"Apparel and Merchandise",160,33.761188,5401.79
+2025-01,Texas,"Art Supplies",127,34.387874,4367.26
+2025-01,Texas,"Stationery and Supplies",197,9.821878,1934.91
+2025-01,Texas,"Books (General)",70,26.949143,1886.44
+2025-02,Florida,"Technology & Accessories",164,506.540488,83072.64
+2025-02,Florida,Textbooks,50,166.731400,8336.57
+2025-02,Florida,"Apparel and Merchandise",154,33.338312,5134.10
+2025-02,Florida,"Art Supplies",161,31.721925,5107.23
+2025-02,Florida,"Stationery and Supplies",175,9.803257,1715.57
+2025-02,Florida,"Books (General)",56,30.186786,1690.46
+2025-02,"South Carolina","Technology & Accessories",32,427.557500,13681.84
+2025-02,"South Carolina","Apparel and Merchandise",24,34.212083,821.09
+2025-02,"South Carolina",Textbooks,5,159.306000,796.53
+2025-02,"South Carolina","Art Supplies",24,28.112083,674.69
+2025-02,"South Carolina","Books (General)",10,30.542000,305.42
+2025-02,"South Carolina","Stationery and Supplies",22,9.286364,204.30
+2025-02,Texas,"Technology & Accessories",149,516.587450,76971.53
+2025-02,Texas,Textbooks,44,166.596136,7330.23
+2025-02,Texas,"Apparel and Merchandise",147,31.623946,4648.72
+2025-02,Texas,"Art Supplies",100,30.065900,3006.59
+2025-02,Texas,"Stationery and Supplies",183,9.203989,1684.33
+2025-02,Texas,"Books (General)",49,27.870612,1365.66
+2025-03,Florida,"Technology & Accessories",182,452.344725,82326.74
+2025-03,Florida,Textbooks,62,177.460645,11002.56
+2025-03,Florida,"Apparel and Merchandise",162,34.167963,5535.21
+2025-03,Florida,"Art Supplies",146,32.159110,4695.23
+2025-03,Florida,"Books (General)",99,31.627071,3131.08
+2025-03,Florida,"Stationery and Supplies",203,9.722217,1973.61
+2025-03,"South Carolina","Technology & Accessories",34,453.656471,15424.32
+2025-03,"South Carolina",Textbooks,10,181.535000,1815.35
+2025-03,"South Carolina","Art Supplies",25,39.478000,986.95
+2025-03,"South Carolina","Apparel and Merchandise",24,38.195417,916.69
+2025-03,"South Carolina","Books (General)",11,31.281818,344.10
+2025-03,"South Carolina","Stationery and Supplies",33,8.864242,292.52
+2025-03,Texas,"Technology & Accessories",179,438.114860,78422.56
+2025-03,Texas,Textbooks,65,174.555846,11346.13
+2025-03,Texas,"Apparel and Merchandise",126,33.739841,4251.22
+2025-03,Texas,"Art Supplies",121,32.651405,3950.82
+2025-03,Texas,"Books (General)",59,30.960339,1826.66
+2025-03,Texas,"Stationery and Supplies",166,10.199699,1693.15
+2025-04,Florida,"Technology & Accessories",150,508.831800,76324.77
+2025-04,Florida,Textbooks,113,169.628230,19167.99
+2025-04,Florida,"Art Supplies",230,38.438826,8840.93
+2025-04,Florida,"Apparel and Merchandise",242,32.942686,7972.13
+2025-04,Florida,"Stationery and Supplies",270,10.087519,2723.63
+2025-04,Florida,"Books (General)",95,28.453263,2703.06
+2025-04,"South Carolina","Technology & Accessories",24,597.142500,14331.42
+2025-04,"South Carolina",Textbooks,13,173.537692,2255.99
+2025-04,"South Carolina","Apparel and Merchandise",43,30.718837,1320.91
+2025-04,"South Carolina","Art Supplies",29,35.079655,1017.31
+2025-04,"South Carolina","Stationery and Supplies",46,11.441087,526.29
+2025-04,"South Carolina","Books (General)",16,24.868750,397.90
+2025-04,Texas,"Technology & Accessories",102,466.687549,47602.13
+2025-04,Texas,Textbooks,98,171.632755,16820.01
+2025-04,Texas,"Apparel and Merchandise",194,31.796186,6168.46
+2025-04,Texas,"Art Supplies",169,35.852367,6059.05
+2025-04,Texas,"Books (General)",82,29.770732,2441.20
+2025-04,Texas,"Stationery and Supplies",226,9.990177,2257.78
+2025-05,Florida,"Technology & Accessories",163,486.735521,79337.89
+2025-05,Florida,Textbooks,135,176.152222,23780.55
+2025-05,Florida,"Apparel and Merchandise",256,32.249727,8255.93
+2025-05,Florida,"Art Supplies",211,34.186825,7213.42
+2025-05,Florida,"Books (General)",94,36.439574,3425.32
+2025-05,Florida,"Stationery and Supplies",315,10.020857,3156.57
+2025-05,"South Carolina","Technology & Accessories",21,488.863810,10266.14
+2025-05,"South Carolina",Textbooks,13,157.782308,2051.17
+2025-05,"South Carolina","Apparel and Merchandise",41,27.693415,1135.43
+2025-05,"South Carolina","Art Supplies",24,38.347917,920.35
+2025-05,"South Carolina","Stationery and Supplies",46,9.769783,449.41
+2025-05,"South Carolina","Books (General)",11,31.945455,351.40
+2025-05,Texas,"Technology & Accessories",110,443.833273,48821.66
+2025-05,Texas,Textbooks,103,176.347864,18163.83
+2025-05,Texas,"Apparel and Merchandise",213,31.911925,6797.24
+2025-05,Texas,"Art Supplies",175,34.374229,6015.49
+2025-05,Texas,"Books (General)",97,33.582887,3257.54
+2025-05,Texas,"Stationery and Supplies",267,10.282659,2745.47
+2025-06,Florida,"Technology & Accessories",129,478.100853,61675.01
+2025-06,Florida,Textbooks,112,164.035357,18371.96
+2025-06,Florida,"Apparel and Merchandise",239,34.216820,8177.82
+2025-06,Florida,"Art Supplies",207,32.760338,6781.39
+2025-06,Florida,"Books (General)",105,33.560381,3523.84
+2025-06,Florida,"Stationery and Supplies",282,9.924007,2798.57
+2025-06,"South Carolina","Technology & Accessories",17,562.741765,9566.61
+2025-06,"South Carolina",Textbooks,18,187.563889,3376.15
+2025-06,"South Carolina","Apparel and Merchandise",41,29.490488,1209.11
+2025-06,"South Carolina","Art Supplies",19,34.184211,649.50
+2025-06,"South Carolina","Books (General)",15,22.324000,334.86
+2025-06,"South Carolina","Stationery and Supplies",34,9.675000,328.95
+2025-06,Texas,"Technology & Accessories",108,469.975370,50757.34
+2025-06,Texas,Textbooks,119,167.365882,19916.54
+2025-06,Texas,"Apparel and Merchandise",197,30.710863,6050.04
+2025-06,Texas,"Art Supplies",140,36.499357,5109.91
+2025-06,Texas,"Books (General)",94,29.927021,2813.14
+2025-06,Texas,"Stationery and Supplies",256,9.905820,2535.89
+2025-07,Florida,"Technology & Accessories",199,540.525528,107564.58
+2025-07,Florida,Textbooks,96,171.895625,16501.98
+2025-07,Florida,"Apparel and Merchandise",164,36.076890,5916.61
+2025-07,Florida,"Art Supplies",118,34.713475,4096.19
+2025-07,Florida,"Books (General)",66,29.586061,1952.68
+2025-07,Florida,"Stationery and Supplies",209,9.129234,1908.01
+2025-07,"South Carolina","Technology & Accessories",37,437.956216,16204.38
+2025-07,"South Carolina",Textbooks,19,176.997368,3362.95
+2025-07,"South Carolina","Apparel and Merchandise",33,35.972121,1187.08
+2025-07,"South Carolina","Art Supplies",18,35.761667,643.71
+2025-07,"South Carolina","Books (General)",11,32.472727,357.20
+2025-07,"South Carolina","Stationery and Supplies",22,10.220000,224.84
+2025-07,Texas,"Technology & Accessories",137,486.796350,66691.10
+2025-07,Texas,Textbooks,76,178.700132,13581.21
+2025-07,Texas,"Art Supplies",113,34.748938,3926.63
+2025-07,Texas,"Apparel and Merchandise",123,31.825854,3914.58
+2025-07,Texas,"Books (General)",58,29.634483,1718.80
+2025-07,Texas,"Stationery and Supplies",141,10.030922,1414.36
+2025-08,Florida,"Technology & Accessories",193,528.834041,102064.97
+2025-08,Florida,Textbooks,88,165.917614,14600.75
+2025-08,Florida,"Art Supplies",139,33.947050,4718.64
+2025-08,Florida,"Apparel and Merchandise",149,31.116107,4636.30
+2025-08,Florida,"Stationery and Supplies",189,10.476190,1980.00
+2025-08,Florida,"Books (General)",70,27.655286,1935.87
+2025-08,"South Carolina","Technology & Accessories",41,682.833902,27996.19
+2025-08,"South Carolina",Textbooks,21,167.860000,3525.06
+2025-08,"South Carolina","Apparel and Merchandise",44,37.188409,1636.29
+2025-08,"South Carolina","Art Supplies",23,27.072174,622.66
+2025-08,"South Carolina","Books (General)",9,35.862222,322.76
+2025-08,"South Carolina","Stationery and Supplies",28,9.704286,271.72
+2025-08,Texas,"Technology & Accessories",154,488.302208,75198.54
+2025-08,Texas,Textbooks,78,175.715128,13705.78
+2025-08,Texas,"Apparel and Merchandise",111,29.707568,3297.54
+2025-08,Texas,"Art Supplies",95,32.433053,3081.14
+2025-08,Texas,"Books (General)",64,26.588906,1701.69
+2025-08,Texas,"Stationery and Supplies",167,9.857725,1646.24
+2025-09,Florida,"Technology & Accessories",171,455.082865,77819.17
+2025-09,Florida,Textbooks,94,175.669681,16512.95
+2025-09,Florida,"Apparel and Merchandise",160,30.790313,4926.45
+2025-09,Florida,"Art Supplies",131,33.232595,4353.47
+2025-09,Florida,"Stationery and Supplies",175,10.442171,1827.38
+2025-09,Florida,"Books (General)",51,29.331569,1495.91
+2025-09,"South Carolina","Technology & Accessories",24,526.784167,12642.82
+2025-09,"South Carolina",Textbooks,10,156.170000,1561.70
+2025-09,"South Carolina","Art Supplies",25,44.178000,1104.45
+2025-09,"South Carolina","Apparel and Merchandise",16,42.972500,687.56
+2025-09,"South Carolina","Books (General)",8,33.720000,269.76
+2025-09,"South Carolina","Stationery and Supplies",24,9.620000,230.88
+2025-09,Texas,"Technology & Accessories",161,528.470497,85083.75
+2025-09,Texas,Textbooks,74,161.363378,11940.89
+2025-09,Texas,"Apparel and Merchandise",143,33.460839,4784.90
+2025-09,Texas,"Art Supplies",121,32.266033,3904.19
+2025-09,Texas,"Books (General)",59,29.649661,1749.33
+2025-09,Texas,"Stationery and Supplies",157,10.209427,1602.88
+2025-10,Florida,"Technology & Accessories",312,463.068173,144477.27
+2025-10,Florida,Textbooks,139,170.244029,23663.92
+2025-10,Florida,"Art Supplies",204,35.453922,7232.60
+2025-10,Florida,"Apparel and Merchandise",246,29.302439,7208.40
+2025-10,Florida,"Books (General)",99,30.765758,3045.81
+2025-10,Florida,"Stationery and Supplies",251,10.310598,2587.96
+2025-10,"South Carolina","Technology & Accessories",39,493.139231,19232.43
+2025-10,"South Carolina",Textbooks,28,165.272857,4627.64
+2025-10,"South Carolina","Art Supplies",35,41.183143,1441.41
+2025-10,"South Carolina","Apparel and Merchandise",40,30.076250,1203.05
+2025-10,"South Carolina","Books (General)",19,26.552632,504.50
+2025-10,"South Carolina","Stationery and Supplies",48,10.057500,482.76
+2025-10,Texas,"Technology & Accessories",271,491.750480,133264.38
+2025-10,Texas,Textbooks,115,166.355913,19130.93
+2025-10,Texas,"Apparel and Merchandise",200,31.239850,6247.97
+2025-10,Texas,"Art Supplies",172,29.441512,5063.94
+2025-10,Texas,"Books (General)",92,30.696957,2824.12
+2025-10,Texas,"Stationery and Supplies",238,10.186471,2424.38
+2025-11,Florida,"Technology & Accessories",211,492.861706,103993.82
+2025-11,Florida,Textbooks,96,165.949583,15931.16
+2025-11,Florida,"Apparel and Merchandise",172,31.892267,5485.47
+2025-11,Florida,"Art Supplies",128,31.618281,4047.14
+2025-11,Florida,"Books (General)",60,31.091000,1865.46
+2025-11,Florida,"Stationery and Supplies",174,9.768908,1699.79
+2025-11,"South Carolina","Technology & Accessories",31,471.382903,14612.87
+2025-11,"South Carolina",Textbooks,11,181.295455,1994.25
+2025-11,"South Carolina","Apparel and Merchandise",23,32.853913,755.64
+2025-11,"South Carolina","Art Supplies",20,32.148000,642.96
+2025-11,"South Carolina","Books (General)",12,23.557500,282.69
+2025-11,"South Carolina","Stationery and Supplies",22,9.488636,208.75
+2025-11,Texas,"Technology & Accessories",172,473.951977,81519.74
+2025-11,Texas,Textbooks,72,158.365417,11402.31
+2025-11,Texas,"Apparel and Merchandise",122,38.908852,4746.88
+2025-11,Texas,"Art Supplies",122,34.416557,4198.82
+2025-11,Texas,"Books (General)",58,31.831724,1846.24
+2025-11,Texas,"Stationery and Supplies",168,10.040179,1686.75
+2025-12,Florida,"Technology & Accessories",192,485.714115,93257.11
+2025-12,Florida,Textbooks,87,174.259310,15160.56
+2025-12,Florida,"Apparel and Merchandise",175,33.740743,5904.63
+2025-12,Florida,"Art Supplies",137,29.221533,4003.35
+2025-12,Florida,"Books (General)",71,32.047042,2275.34
+2025-12,Florida,"Stationery and Supplies",178,10.153258,1807.28
+2025-12,"South Carolina","Technology & Accessories",37,500.604865,18522.38
+2025-12,"South Carolina",Textbooks,13,165.530769,2151.90
+2025-12,"South Carolina","Apparel and Merchandise",21,32.900000,690.90
+2025-12,"South Carolina","Art Supplies",15,32.024667,480.37
+2025-12,"South Carolina","Books (General)",6,55.420000,332.52
+2025-12,"South Carolina","Stationery and Supplies",34,9.673235,328.89
+2025-12,Texas,"Technology & Accessories",169,415.893136,70285.94
+2025-12,Texas,Textbooks,73,169.800411,12395.43
+2025-12,Texas,"Apparel and Merchandise",169,32.378225,5471.92
+2025-12,Texas,"Art Supplies",107,33.510561,3585.63
+2025-12,Texas,"Books (General)",70,30.350429,2124.53
+2025-12,Texas,"Stationery and Supplies",170,10.042000,1707.14
